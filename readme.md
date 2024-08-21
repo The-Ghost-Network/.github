@@ -1,6 +1,6 @@
 <p align="center">
 <kbd>
-<img width="150px" src="https://github.com/The-Ghost-Network/Ghost/public/Ghost.png?raw=true">
+<img width="150px" src="https://github.com/The-Ghost-Network/Ghost/school/Ghost.png?raw=true">
 </kbd>
 </p>
 
